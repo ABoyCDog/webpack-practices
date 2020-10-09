@@ -1,0 +1,5 @@
+*zip
+/node_modules/
+/manage-output/node_modules/
+/manage-resources/node_modules/
+/vue-cli3/node_modules/

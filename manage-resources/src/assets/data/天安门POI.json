@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.384981,
+                    39.893129
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "希岸轻雅酒店(北京天安门大栅栏?",
+                "postcode": 0,
+                "poiLon": 116.384981,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "大栅栏西街87号",
+                "indType": "",
+                "poiType": "酒店宾馆;旅馆招待所",
+                "poiBusi": "",
+                "poiTel": "010-56107444",
+                "poiId": "1154557",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.893129,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.398708,
+                    39.897556
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "怡莱酒店(北京天安门广场店)",
+                "postcode": 0,
+                "poiLon": 116.398708,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "西打磨厂街155号",
+                "indType": "",
+                "poiType": "酒店宾馆;旅馆招待所",
+                "poiBusi": "",
+                "poiTel": "010-67017762",
+                "poiId": "26479",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.897556,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.394497,
+                    39.901286
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "北京市公安局(天安门地区分局)停",
+                "postcode": 0,
+                "poiLon": 116.394497,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "东交民巷37号公安局天安门地区分局",
+                "indType": "",
+                "poiType": "汽车;停车场",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "27262",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.901286,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.38644,
+                    39.893449
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "格林豪泰(北京前门店)(原天安门?",
+                "postcode": 0,
+                "poiLon": 116.38644,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "煤市街大栅栏西街往西300米",
+                "indType": "",
+                "poiType": "酒店宾馆;经济型酒店",
+                "poiBusi": "",
+                "poiTel": "010-63156115",
+                "poiId": "1638523",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.893449,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.375177,
+                    39.904935
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "途179连锁酒店天安门店",
+                "postcode": 0,
+                "poiLon": 116.375177,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "大六部口街9",
+                "indType": "",
+                "poiType": "酒店宾馆;旅馆招待所",
+                "poiBusi": "",
+                "poiTel": "010-66072066",
+                "poiId": "42454",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.904935,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.393857,
+                    39.899866
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "北京天安门国际旅行社",
+                "postcode": 0,
+                "poiLon": 116.393857,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "东交民巷44号3-1(天安门广场东侧路南端,毛主席纪念堂东侧)",
+                "indType": "",
+                "poiType": "旅游服务;旅行社",
+                "poiBusi": "",
+                "poiTel": "010-65269923",
+                "poiId": "1850806",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.899866,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.384981,
+                    39.893129
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "希岸?轻雅酒店北京天安门大栅栏?",
+                "postcode": 0,
+                "poiLon": 116.384981,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "大栅栏西街87号",
+                "indType": "",
+                "poiType": "酒店宾馆;旅馆招待所",
+                "poiBusi": "",
+                "poiTel": "010-56107444",
+                "poiId": "26587",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.893129,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.383532,
+                    39.90588
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门西[公交站]",
+                "postcode": 0,
+                "poiLon": 116.383532,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "52,1,夜1,5,观光1,观光2",
+                "indType": "",
+                "poiType": "基础设施;公交车站",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42391",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.90588,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.393827,
+                    39.900066
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "全聚德烤鸭店(天安门店)",
+                "postcode": 0,
+                "poiLon": 116.393827,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "东交民巷44号国家博物馆南(地铁1号线天安门东站D口出,地铁2号线前门站A口出)",
+                "indType": "",
+                "poiType": "美食;中餐厅",
+                "poiBusi": "",
+                "poiTel": "010-65122265",
+                "poiId": "42400",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.900066,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.372739,
+                    39.909237
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "北京天安门流云小院",
+                "postcode": 0,
+                "poiLon": 116.372739,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "崇善里12号(靠近西单地铁C口)",
+                "indType": "",
+                "poiType": "酒店宾馆;其它酒店宾?",
+                "poiBusi": "",
+                "poiTel": "17310391873",
+                "poiId": "42409",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.909237,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.390676,
+                    39.908457
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门城楼存包处",
+                "postcode": 0,
+                "poiLon": 116.390676,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "东长安街天安门内",
+                "indType": "",
+                "poiType": "生活服务;其它生活服?",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42418",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.908457,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.396286,
+                    39.906666
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门东站B东北口",
+                "postcode": 0,
+                "poiLon": 116.396286,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "天安门东站B东北口(天安门东地铁站)",
+                "indType": "",
+                "poiType": "基础设施;门/出入口",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42427",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.906666,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.38515,
+                    39.898409
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "北京我爱北京天安门普通公寓(前?",
+                "postcode": 0,
+                "poiLon": 116.38515,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "前门西大街2号楼",
+                "indType": "",
+                "poiType": "酒店宾馆;酒店宾馆",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42436",
+                "poiTag": "",
+                "poiArea": "西城区",
+                "poiLat": 39.898409,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.390556,
+                    39.908727
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门存取包处-出口",
+                "postcode": 0,
+                "poiLon": 116.390556,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "东长安街天安门内",
+                "indType": "",
+                "poiType": "基础设施;门/出入口",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42445",
+                "poiTag": "",
+                "poiArea": "东城区",
+                "poiLat": 39.908727,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.544609,
+                    39.677383
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门节日设施堆放库",
+                "postcode": 0,
+                "poiLon": 116.544609,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "西孝路附近",
+                "indType": "",
+                "poiType": "生活服务;其它生活服?",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "42463",
+                "poiTag": "",
+                "poiArea": "大兴区",
+                "poiLat": 39.677383,
+                "poiCity": "北京市"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.396129,
+                    39.906754
+                ]
+            },
+            "properties": {
+                "website": "",
+                "poiProv": "",
+                "poiName": "天安门东-B口(东北口)",
+                "postcode": 0,
+                "poiLon": 116.396129,
+                "poiAlias": "",
+                "typeCode": 2,
+                "parkType": "",
+                "poiEmail": "",
+                "photoUrl": "",
+                "poiAddres": "",
+                "indType": "",
+                "poiType": "基础设施;地铁站出入?",
+                "poiBusi": "",
+                "poiTel": "",
+                "poiId": "460999",
+                "poiTag": "",
+                "poiArea": "",
+                "poiLat": 39.906754,
+                "poiCity": "北京市"
+            }
+        }
+    ]
+}
