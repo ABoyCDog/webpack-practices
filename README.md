@@ -19,7 +19,7 @@
 
   因为es6的出现，es6模块的依赖关系是确定的，`和运行时的状态无关`，可以进行可靠的静态分析，这就是Tree shaking的基础
 
-+ Minificaiton
++ Minification
 
   代码压缩
 
