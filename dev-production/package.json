@@ -1,0 +1,22 @@
+{
+  "name": "dev-production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.common.js",
+  "dependencies": {
+    "webpack-cli": "^4.0.0",
+    "webpack": "^5.1.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
